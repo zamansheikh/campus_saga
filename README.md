@@ -6,7 +6,7 @@
 
 # Campus Saga
 
-### A Featuristic basic Calculator app for all
+### A stisfactory ranking pltaform of educational institutes.
 
     Revolutionize university life with our app, enabling students to post, solve, and discuss academic challenges. Admins review and rate solutions, fostering collaboration. With MVC architecture and GetX state management, enjoy smooth navigation, user profiles, problem showcases, promotions, and university rankings!
 
