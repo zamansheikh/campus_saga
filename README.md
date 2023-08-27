@@ -16,11 +16,11 @@ English
 &nbsp;&nbsp;
 
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zamansheikh/Calcu?color=black&label=Stable&logo=github)](https://github.com/zamansheikh/Calcu/releases/latest/)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zamansheikh/Calcu?include_prereleases&label=Preview&logo=Github)](https://github.com/zamansheikh/Calcu/releases/)
-[![Keep a Changelog](https://img.shields.io/badge/Changelog-lightgray?style=flat&color=gray&logo=keep-a-changelog)](https://github.com/zamansheikh/Calcu/blob/main/CHANGELOG.md)
-[![GitHub all releases](https://img.shields.io/github/downloads/zamansheikh/Calcu/total?label=Downloads&logo=github)](https://github.com/zamansheikh/Calcu/releases/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/zamansheikh/Calcu?color=informational&label=Stars)](https://github.com/zamansheikh/Calcu)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zamansheikh/Campus-Saga?color=black&label=Stable&logo=github)](https://github.com/zamansheikh/Campus-Saga/releases/latest/)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zamansheikh/Campus-Saga?include_prereleases&label=Preview&logo=Github)](https://github.com/zamansheikh/Campus-Saga/releases/)
+[![Keep a Changelog](https://img.shields.io/badge/Changelog-lightgray?style=flat&color=gray&logo=keep-a-changelog)](https://github.com/zamansheikh/Campus-Saga/blob/main/CHANGELOG.md)
+[![GitHub all releases](https://img.shields.io/github/downloads/zamansheikh/Campus-Saga/total?label=Downloads&logo=github)](https://github.com/zamansheikh/Campus-Saga/releases/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/zamansheikh/Campus-Saga?color=informational&label=Stars)](https://github.com/zamansheikh/Campus-Saga)
 [![Supported Sites](https://img.shields.io/badge/Supported-Sites-9cf.svg?style=flat)](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-deCodersFamily-blue?style=flat&logo=telegram)](https://t.me/decodersfamily)
 
@@ -74,8 +74,8 @@ English
 
 For most devices, it is recommended to install the **arm64-v8a** version of the apks
 
-- Download the latest stable version from [GitHub releases](https://github.com/zamansheikh/Calcu/releases/latest)
-  - Install the [pre-release](https://github.com/zamansheikh/Calcu/releases/) versions to help us test out new features & changes
+- Download the latest stable version from [GitHub releases](https://github.com/zamansheikh/Campus-Saga/releases/latest)
+  - Install the [pre-release](https://github.com/zamansheikh/Campus-Saga/releases/) versions to help us test out new features & changes
 
 -->
 
@@ -98,7 +98,7 @@ Contributions are welcome!
 	
 >**Note**
 
->For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [CONTRIBUTING.md](https://github.com/zamansheikh/Calcu/blob/main/CONTRIBUTING.md) for instructions and guidelines first.
+>For submitting bug reports, feature requests, questions, or any other ideas to improve, please read [CONTRIBUTING.md](https://github.com/zamansheikh/Campus-Saga/blob/main/CONTRIBUTING.md) for instructions and guidelines first.
 
 
 
