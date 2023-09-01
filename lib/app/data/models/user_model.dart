@@ -1,25 +1,40 @@
-import 'package:get/get.dart';
+class User {
+  String? name;
+  String? phoneNumber;
+  String? password;
+  String? gender;
+  String? university;
+  String? department;
+  bool? isVerified;
 
-class UserModel extends GetxController {
-  late String name;
-  late String phoneNumber;
-  late String password;
-  late String gender;
-  late String university;
-  late String department;
-  bool isVerified = false;
+  User(
+      {this.name,
+      this.phoneNumber,
+      this.password,
+      this.gender,
+      this.university,
+      this.department,
+      this.isVerified});
 
-  UserModel({
-    required this.name,
-    required this.phoneNumber,
-    required this.password,
-    required this.gender,
-    required this.university,
-    required this.department,
-  });
+  User.fromJson(Map<String, dynamic> json) {
+    name = json['name'];
+    phoneNumber = json['phoneNumber'];
+    password = json['password'];
+    gender = json['gender'];
+    university = json['university'];
+    department = json['department'];
+    isVerified = json['isVerified'];
+  }
 
-  void setVerificationStatus(bool status) {
-    isVerified = status;
-    update();
+  Map<String, dynamic> toJson() {
+    final data = <String, dynamic>{};
+    data['name'] = name;
+    data['phoneNumber'] = phoneNumber;
+    data['password'] = password;
+    data['gender'] = gender;
+    data['university'] = university;
+    data['department'] = department;
+    data['isVerified'] = isVerified;
+    return data;
   }
 }

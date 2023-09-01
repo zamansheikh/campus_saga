@@ -1,0 +1,16 @@
+{
+    "id": "",
+    "userId": "",
+    "userName": "",
+    "heading": "",
+    "description": "",
+    "imageUrl": "",
+    "isSolved": false,
+    "upvotes": 0,
+    "downvotes": 0,
+    "adminFeedback": "",
+    "userAgreesToFeedback": false,
+    "problemHeading": null,
+    "problemDescription": null,
+    "userAvatar": null
+}
