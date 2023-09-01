@@ -1,7 +1,7 @@
 name: campus_saga
 version: 1.0.0+1
 publish_to: none
-description: A new Flutter project.
+description: Flutter Project of Campus Contrast.
 environment: 
   sdk: '>=3.1.0 <4.0.0'
 
@@ -15,15 +15,9 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   flutter_test: 
     sdk: flutter
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
-
-# The following line ensures that the Material Icons font is
-# included with your application, so that you can use the icons in
-# the material Icons class.
 uses-material-design: true
 
 # To add assets to your application, add an assets section, like this:
