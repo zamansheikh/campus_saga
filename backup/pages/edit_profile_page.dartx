@@ -1,9 +1,4 @@
-import 'package:campus_saga/components/app_text_field.dart';
-import 'package:campus_saga/components/tool_bar.dart';
-import 'package:campus_saga/components/user_avatar.dart';
-import 'package:campus_saga/config/app_strings.dart';
-import 'package:campus_saga/styles/app_colors.dart';
-import 'package:campus_saga/styles/app_text.dart';
+
 import 'package:flutter/material.dart';
 
 enum Gender { none, male, female, other }

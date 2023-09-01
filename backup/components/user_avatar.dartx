@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
 
-import '../config/app_icons.dart';
 
 class UserAvater extends StatelessWidget {
   final double size;

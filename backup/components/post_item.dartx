@@ -1,7 +1,4 @@
-import 'package:campus_saga/components/user_avatar.dart';
-import 'package:campus_saga/config/app_icons.dart';
-import 'package:campus_saga/config/app_strings.dart';
-import 'package:flutter/material.dart';
+
 
 import '../styles/app_text.dart';
 
