@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="" src="assets/icon/Campus_Saga.png"  width=160 height=160  align="center">
+<img width="" src="assets/icon/Campus_Saga_Icon.png"  width=160 height=160  align="center">
 
 # Campus Saga
 
