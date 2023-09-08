@@ -6,7 +6,7 @@
 
 # Campus Saga
 
-### A stisfactory ranking pltaform of educational institutes.
+### A satisfactory ranking platform for educational institutes.
 
     Revolutionize university life with our app, enabling students to post, solve, and discuss academic challenges. Admins review and rate solutions, fostering collaboration. With MVC architecture and GetX state management, enjoy smooth navigation, user profiles, problem showcases, promotions, and university rankings!
 
@@ -47,20 +47,9 @@ English
 
 ## 📖 Features
 
-- This calculator offers more than just simplicity—it brings innovation to your fingertips. 
-
-- Unlock unique features by utilizing long-press gestures on specific buttons: hold down the '=' button for a precise 3-decimal result.
-
-- Do the same on the '%' button to reveal a remainder. 
-
-- The result display window becomes a powerful tool when long-press on results , it save your result in a colorfull button.
-
-- Access your saved results with a tap, or remove them by long-pressing the button. 
-
-- Remove all save result by long-pressing 'i' button. 
+- This Campus Saga offers more than just simplicity—it brings innovation to your fingertips. 
 
 - No Ads
-
 
 - Easy to use and user-friendly.
 
@@ -86,9 +75,12 @@ Join our [Telegram Channel](https://t.me/decodersfamily) for discussion, announc
 ## 💖 Sponsors
 
   --No sponsors
+Campus Saga will be always free and open source for everyone. If you like it, please consider [sponsoring me](https://github.com/sponsors/zamansheikh)!
 
+## 💲Donate 
 
-Chat Bot will be always free and open source for everyone. If you like it, please consider [sponsoring me](https://github.com/sponsors/zamansheikh)!
+<p><a href="https://www.buymeacoffee.com/zamansheikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zamansheikh" /></a></p></br><br>
+
 
 ## 🤝 Contributing
 
@@ -108,13 +100,13 @@ Youtube Tutorial 😁
 
 ## 📃 License
 
-[![GitHub](https://img.shields.io/github/license/JunkFood02/Seal?style=for-the-badge)](https://github.com/JunkFood02/Seal/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/zamansheikh/Campus-Saga?style=for-the-badge)](https://github.com/zamansheikh/Campus-Saga/blob/main/LICENSE)
 
 >**Warning**
 
 >Except for the source code licensed under the GPLv3 license,
->all other parties are prohibited from using ChatBot's name as a downloader app,
->and the same is true for ChatBot's derivatives.
+>all other parties are prohibited from using Campus Saga's name as a downloader app,
+>and the same is true for Campus Saga's derivatives.
 >Derivatives include but are not limited to forks and unofficial builds.
 
 <div align="right">
