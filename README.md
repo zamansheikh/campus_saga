@@ -84,7 +84,7 @@ Campus Saga will be always free and open source for everyone. If you like it, pl
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributors are welcome!
 
 
 	
