@@ -66,8 +66,6 @@ For most devices, it is recommended to install the **arm64-v8a** version of the 
 - Download the latest stable version from [GitHub releases](https://github.com/zamansheikh/Campus-Saga/releases/latest)
   - Install the [pre-release](https://github.com/zamansheikh/Campus-Saga/releases/) versions to help us test out new features & changes
 
--->
-
 ## 💬 Contact
 
 Join our [Telegram Channel](https://t.me/decodersfamily) for discussion, announcements, and releases!
