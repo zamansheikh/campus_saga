@@ -51,6 +51,8 @@ English
 
 - No Ads
 
+- Virtual Campus 🤍
+
 - Easy to use and user-friendly.
 
 - [Material Design 3](https://m3.material.io/) style UI, with dynamic color theme.
