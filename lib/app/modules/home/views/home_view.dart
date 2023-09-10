@@ -24,8 +24,8 @@ class HomeView extends GetView<HomeController> {
         elevation: 0,
       ),
       body: Container(
-        height: double.infinity,
-        width: double.infinity,
+        height: Get.height,
+        width: Get.width,
         padding: EdgeInsets.only(
           top: 15,
           left: 15,
@@ -46,30 +46,71 @@ class HomeView extends GetView<HomeController> {
             ),
           ],
         ),
-        child: Container(
-          padding: EdgeInsets.all(10),
-          height: 250, //hight is not working, how to fix that ?
-          width: Get.width,
-          decoration: BoxDecoration(
-            color: Colors.white.withOpacity(.5),
-            borderRadius: BorderRadius.all(
-              Radius.circular(15),
-            ),
-          ),
+        child: SingleChildScrollView(
           child: Column(
             children: [
-              Row(
-                children: [
-                  CircleAvatar(
-                    radius: 20,
-                    backgroundImage: AssetImage('assets/temp/jenny.png'),
-                  ),
-                  Text(" Anonymous")
-                ],
-              )
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
+              _cardContainer(),
+              SizedBox(
+                height: 15,
+              ),
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Container _cardContainer() {
+    return Container(
+      padding: EdgeInsets.all(10),
+      height: 200,
+      width: Get.width,
+      decoration: BoxDecoration(
+        color: Colors.white.withOpacity(.5),
+        borderRadius: BorderRadius.all(
+          Radius.circular(15),
+        ),
+      ),
+      child: Column(
+        children: [
+          Row(
+            children: [
+              CircleAvatar(
+                radius: 20,
+                backgroundImage: AssetImage('assets/temp/jenny.png'),
+              ),
+              SizedBox(
+                width: 10,
+              ),
+              Text("Anonymous"),
+              Spacer(),
+              Checkbox(
+                value: false,
+                onChanged: (bool? newValue) {},
+              )
+            ],
+          )
+        ],
       ),
     );
   }
