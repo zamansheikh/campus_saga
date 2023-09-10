@@ -58,7 +58,6 @@ fonts:
         weight: 400
       - asset: assets/fonts/Urbanist-SemiBold.ttf
         weight: 600
-
   - family: Boogaloo
     fonts:
       - asset: assets/fonts/Boogaloo-Regular.ttf
