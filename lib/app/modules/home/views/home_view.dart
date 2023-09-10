@@ -20,9 +20,7 @@ class HomeView extends GetView<HomeController> {
         centerTitle: true,
       ),
       body: Column(
-        children: [
-          Image.asset("assets/images/facebook.png"),
-        ],
+        children: [IconButton(onPressed: () {}, icon: Icon(Icons.abc))],
       ),
     );
   }
