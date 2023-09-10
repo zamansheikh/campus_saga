@@ -15,7 +15,7 @@ class HomeView extends GetView<HomeController> {
           style: TextStyle(fontFamily: 'Boogaloo'),
         ),
         actions: [
-          Icon(Icons.mp_sharp),
+          IconButton(onPressed: () {}, icon: Icon(Icons.dark_mode)),
         ],
         centerTitle: true,
       ),

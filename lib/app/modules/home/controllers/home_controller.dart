@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {
-
-  final count = 0.obs;
+  final count = 1.obs;
+  RxBool isDark = false.obs;
   @override
   void onInit() {
     super.onInit();
