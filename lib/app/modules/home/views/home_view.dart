@@ -14,13 +14,15 @@ class HomeView extends GetView<HomeController> {
           'Campus Saga',
           style: TextStyle(fontFamily: 'Boogaloo'),
         ),
+        actions: [
+          Icon(Icons.mp_sharp),
+        ],
         centerTitle: true,
       ),
-      body: const Center(
-        child: Text(
-          'HomeView is working',
-          style: TextStyle(fontSize: 20, fontFamily: 'Urbanist'),
-        ),
+      body: Column(
+        children: [
+          Image.asset("assets/images/facebook.png"),
+        ],
       ),
     );
   }
