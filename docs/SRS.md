@@ -77,46 +77,46 @@ The app will have user-friendly interfaces for registration, issue posting, issu
 
 The app will interact with external APIs for location services (optional) and authentication.
 
-## 6. Performance Requirements
+## 5. Performance Requirements
 
 - The app should respond to user actions promptly, with minimal latency.
 - The system must handle a large number of concurrent users efficiently.
 
-## 7. Security Requirements
+## 6. Security Requirements
 
 - User data, including registration details and posts, must be securely stored and transmitted.
 - Authentication should be robust to prevent unauthorized access.
 - Access control mechanisms should ensure data privacy.
 
-## 8. Software Quality Attributes
+## 7. Software Quality Attributes
 
 - The app should be reliable, with minimal downtime.
 - It should be maintainable and easy to update.
 - Scalability should be considered to accommodate future growth.
 
-## 9. Constraints
+## 8. Constraints
 
 - The development team will work within the defined budget and timeline.
 - Compliance with relevant privacy and data protection regulations is mandatory.
 
-## 10. Assumptions and Dependencies
+## 9. Assumptions and Dependencies
 
 - The availability of Flutter and GetX libraries for development.
 - Users have access to valid university email addresses for registration.
 
-## 11. Appendices
+## 10. Appendices
 
 - Glossary of terms and acronyms.
 - Diagrams illustrating the system architecture or user workflows.
 
-## 12. Review and Approval
+## 11. Review and Approval
 
 The SRS document will undergo review and approval by stakeholders.
 
-## 13. Change History
+## 12. Change History
 
 A record of changes made to the SRS document will be maintained.
 
-## 14. References
+## 13. References
 
 List any external references or standards used in the development process.
