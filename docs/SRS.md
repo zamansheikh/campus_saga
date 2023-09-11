@@ -8,13 +8,13 @@ The purpose of this document is to define the software requirements for the **Ca
 
 ### 1.2 Scope
 
-The **Campus Saga** app aims to provide a platform for university students to anonymously post and review issues within their respective institutions, interact with university authorities, and engage with promotions or advertisements.
+The **Campus Saga** app aims to provide a platform for university students to anonymously post and review issues within their respective institutions, interact with university authorities, and engage with promotions or advertisements.The users can view the issues of other universitys if they are not a student of that university.The users who are not varified through their respective institutions id cards, can't post any issues or promotions. 
 
 ## 2. System Overview
 
 ### 2.1 System Description
 
-The system will consist of a mobile application developed using Flutter and the GetX library. It will follow the Model-View-Controller (MVC) pattern for organization.
+The system will consist of a mobile application developed using Flutter and the GetX library. It will follow the Model-View-Controller (MVC) pattern for organization, firebase for database managment and authentication.
 
 ### 2.2 Key Features
 
@@ -33,8 +33,13 @@ The system will consist of a mobile application developed using Flutter and the 
 
 #### User Registration:
 
-- Users must be able to create accounts using their university email addresses.
+- Users must be able to create accounts using their university email addresses/Phone Number.
 - User authentication should be implemented securely.
+
+#### Institute Identification:
+
+- Users must be identified by their student ID cards.
+- Access to features is restricted based on the user's university affiliation.
 
 #### Anonymous Issue Posting:
 
@@ -44,8 +49,7 @@ The system will consist of a mobile application developed using Flutter and the 
 
 #### University Rating:
 
-- The system will calculate a university rating based on user reviews.
-- Users can submit reviews and rate universities on a scale.
+- The system will calculate a university rating based on isuue solving period, solved issue ratio, engagement.
 
 #### Interaction with University Authorities:
 
@@ -62,20 +66,17 @@ The system will consist of a mobile application developed using Flutter and the 
 - Users can view advertisements and promotions.
 - A mechanism for posting advertisements must be provided to authorized users.
 
-#### Institute Identification:
 
-- Users must be identified by their student ID cards.
-- Access to features is restricted based on the user's university affiliation.
 
 ## 4. External Interface Requirements
 
 ### 4.1 User Interfaces
 
-The app will have user-friendly interfaces for registration, issue posting, issue browsing, rating universities, and interacting with university authorities.
+The app will have user-friendly interfaces for registration, issue posting, issue browsing, ranking universities, and interacting with university authorities, user profile.
 
 ### 4.2 API Interfaces
 
-The app will interact with external APIs for location services (optional) and authentication.
+The app will interact with external APIs for location services (optional), authentication and user database management.
 
 ## 6. Performance Requirements
 
@@ -102,7 +103,7 @@ The app will interact with external APIs for location services (optional) and au
 ## 10. Assumptions and Dependencies
 
 - The availability of Flutter and GetX libraries for development.
-- Users have access to valid university email addresses for registration.
+- Users have access to valid university email addresses/phone number for registration.
 
 ## 11. Appendices
 
@@ -111,7 +112,7 @@ The app will interact with external APIs for location services (optional) and au
 
 ## 12. Review and Approval
 
-The SRS document will undergo review and approval by stakeholders.
+The SRS document will undergo review and approval by org:deCodersFamily.
 
 ## 13. Change History
 
@@ -119,4 +120,4 @@ A record of changes made to the SRS document will be maintained.
 
 ## 14. References
 
-List any external references or standards used in the development process.
+N/A
