@@ -47,19 +47,19 @@ English
 
 ## 📖 Features
 
-- This Campus Saga offers more than just simplicity—it brings innovation to your fingertips. 
-
+- User registration and authentication.
+- Anonymous posting of university-related issues.
+- Rating of universities based on user reviews.
+- Interaction between users and university authorities.
+- Voting on the credibility of posted issues.
+- Prioritization of issues based on urgency.
+- Viewing and posting advertisements or promotions.
+- Institute identification via student ID cards.
 - No Ads
-
 - Virtual Campus 🤍
-
 - Easy to use and user-friendly.
-
 - [Material Design 3](https://m3.material.io/) style UI, with dynamic color theme.
-
 - MAD: UI and logic written with pure Kotlin. Single activity, no fragments, only composable destinations.
-
-
 
 ## ⬇️ Download
 
