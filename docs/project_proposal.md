@@ -1,26 +1,26 @@
-Sure, I can help you create a project proposal based on the provided Software Requirements Specification (SRS) document. Here's a project proposal for the **Campus Saga** app:
-
----
-
 # Project Proposal: Campus Saga Mobile Application
 
 ## Table of Contents
 
 1. **Introduction**
+
     1.1. Purpose
     1.2. Scope
 
 2. **Project Overview**
+
     2.1. Project Description
     2.2. Objectives
 
 3. **Project Details**
+
     3.1. Key Features
     3.2. Methodology
     3.3. Timeline
     3.4. Budget
 
 4. **Team and Resources**
+
     4.1. Team Members
     4.2. Required Resources
 
@@ -80,11 +80,11 @@ The project will follow an Agile development methodology, allowing for iterative
 
 ### 3.3. Timeline
 
-The project is expected to be completed within [Insert Project Timeline]. A detailed project schedule will be provided upon approval.
+The project is expected to be completed within 6 months. A detailed project schedule will be provided upon approval.
 
 ### 3.4. Budget
 
-The estimated budget for the project is [Insert Budget]. This includes development, testing, infrastructure, and marketing costs.
+The estimated budget for the project is 20K. This includes development, testing, infrastructure, and marketing costs.
 
 ---
 
@@ -92,7 +92,7 @@ The estimated budget for the project is [Insert Budget]. This includes developme
 
 ### 4.1. Team Members
 
-The project will be led by [Insert Project Manager]. The development team will consist of [Insert Number] experienced developers, designers, and quality assurance professionals.
+The project will be led by Zaman Sheikh (Md. Shamsuzzaman). The development team will consist of 2 experienced developers, designers, and quality assurance professionals.
 
 ### 4.2. Required Resources
 
@@ -104,7 +104,7 @@ The project will be led by [Insert Project Manager]. The development team will c
 
 ## 5. Risks and Mitigations
 
-The project may encounter risks such as [Insert Risks]. Mitigations for these risks will be implemented to ensure the project's success.
+The project may encounter risks such as creating illogical false issues. Mitigations for these risks will be implemented to ensure the project's success.
 
 ---
 
@@ -117,7 +117,3 @@ Stringent quality control measures will be in place to ensure the application's 
 ## 7. Conclusion
 
 The **Campus Saga** mobile application project aims to provide a valuable platform for university students to address issues, communicate with authorities, and engage with promotions. We seek approval and funding for this project to bring this vision to life.
-
----
-
-This project proposal is based on the provided SRS document for the **Campus Saga** app. It outlines the project's objectives, features, methodology, timeline, budget, team, resources, risks, and quality assurance measures.
