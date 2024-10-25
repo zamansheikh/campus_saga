@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "812644809997",
+    "firebase_url": "https://campus-saga-default-rtdb.firebaseio.com",
     "project_id": "campus-saga",
     "storage_bucket": "campus-saga.appspot.com"
   },
