@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587775658076",
+    "project_id": "campus-saga-final",
+    "storage_bucket": "campus-saga-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587775658076:android:f997b8c9b91b8752b47e99",
+        "android_client_info": {
+          "package_name": "com.decodersfamily.campus_saga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCxnJMh-Tvwt32wZFU-IBcdb7Em2ZAt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
