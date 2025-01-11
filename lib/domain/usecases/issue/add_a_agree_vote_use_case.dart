@@ -5,13 +5,13 @@ import '../../../core/errors/failures.dart';
 import '../../../core/usecases/usecase.dart';
 import '../../repositories/post_repository.dart';
 
-class AddVoteUsecase extends UseCase<void, Post> {
+class AddAAgreeVoteUseCase extends UseCase<void, Post> {
   final PostRepository repository;
 
-  AddVoteUsecase(this.repository);
+  AddAAgreeVoteUseCase(this.repository);
 
   @override
   Future<Either<Failure, void>> call(Post post) async {
-    return await repository.addVote(post);
+    return await repository.addAgreeVote(post);
   }
 }
